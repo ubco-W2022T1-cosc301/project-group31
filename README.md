@@ -13,7 +13,7 @@ The dataset was found in The UCI Machine Learning Repository and is licensed und
 
 - Person 1: A second-year international student from Kazakhstan majoring in Data Science, passionate about Math.
 - Person 2: A second year student raised in kelowna who likes to make videos for fun occasionally.
-- Person 3: one sentence about you!
+- Person 3: A second year international student from Mexico with a some experiece in programming and a taste for solving challenging tasks
 
 ## Images
 
