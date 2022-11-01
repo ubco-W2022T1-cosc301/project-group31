@@ -15,14 +15,6 @@ The dataset was found in The UCI Machine Learning Repository and is licensed und
 - Person 2: A second year student raised in kelowna who likes to make videos for fun occasionally.
 - Person 3: A second year international student from Mexico with a some experiece in programming and a taste for solving challenging tasks
 
-## Images
-
-**Please remember to update this section and remove the test image!**
-
-{You can use this area for any images you want to include}
-
-<img src ="images/test.png" width="100px">
-
 ## References
 
 [UCI Machine Learning Repository, Online Retail](https://archive-beta.ics.uci.edu/ml/datasets/online+retail)
