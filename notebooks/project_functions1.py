@@ -5,7 +5,6 @@ from lifetimes.plotting import plot_period_transactions
 import matplotlib.pyplot as plt
 from lifetimes import BetaGeoFitter, GammaGammaFitter
 from plotly.offline import  init_notebook_mode
-init_notebook_mode(connected=True)
 palette = 'Set2'
 
 def outliers(data, variable, q1 = 0.25, q3 = 0.75):
