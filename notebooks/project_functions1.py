@@ -1,12 +1,3 @@
-import pandas as pd
-import datetime as dt
-import seaborn as sns
-from lifetimes.plotting import plot_period_transactions
-import matplotlib.pyplot as plt
-from lifetimes import BetaGeoFitter, GammaGammaFitter
-from plotly.offline import  init_notebook_mode
-palette = 'Set2'
-
 def outliers(data, variable, q1 = 0.25, q3 = 0.75):
     """
     Remove outliers from dataset based on q1 and q2
