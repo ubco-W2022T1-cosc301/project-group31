@@ -47,6 +47,23 @@ As expected, scatterplot visualizes the set of rules applied to generate RFM seg
 
 ## Analysis Three
 
+For this analysis I decided to take an approach from a marketing perspective. For every business an essential part of growing as a company is establishing your brand or company. Through word of mouth marketing or whatever the case may be if no one knows about your business no one could support your business. When looking into the dataset the large majority of the orders that are placed are from the United Kingdom, as the store is located in the United Kingdom this only makes sense.
+
+![UkvsNonUK](./images/UKvsOutsideUKBarChart.png)
+
+Looking at the bar chart we can truly see how big of a difference there is between outside the UK and the UK. For lots of companies seeing this would be plenty reason enough to continue to focus their marketing efforts in UK as that's where they see the most success.
+Assuming that this company is interested in branching outside the UK it gives plenty reason to look into the amount of orders they receive from other countries and decide where else they could focus their marketing efforts. I decided to take a look into the top 10 countries without the UK to help better inform the decision of where they could branch out their marketing techniques.
+
+![top10noUK](./images/Top10SalesNoUK.png)
+
+We can see that the Netherlands is the second most popular country with this store. If desired the store could take the approach of increasing marketing in areas where they already have a little bit of footing, instead of jumping straight to places where they receive little to no orders as that could be the case due to external factors such as political climate or cultural differences.
+
+![bottom10](./images/Bottom10Sales.png) 
+
+As we can see looking at the bottom 10 for sales we can see that Saudi Arabia has placed the least amount of orders totalling under 250.
+This could be due to the points of cultural differences and this store simply offering nothing of relevance to this country.
+The aim of my research on this dataset was to give the business the insight on where their orders are from. More specifically help guide them on where they want to take a deeper look into why their orders originate from where they do. What are they doing in Saudi Arabia to have little to no orders, Similarly what are they doing right in the Netherlands? These questions will become increasingly relevant to this business as they continue to grow and expand their market place.
+
 # Conclusion
 
 The work described in this project is based on a database providing details on purchases made on an E-commerce platform over a period of one year. Each entry in the dataset describes the purchase of a product, by a particular customer and at a given date. In total, approximately  ∼
