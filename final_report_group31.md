@@ -67,6 +67,6 @@ The aim of my research on this dataset was to give the business the insight on w
 
 # Conclusion
 
-The work described in this project is based on a database providing details on purchases made on an E-commerce platform over a period of one year. Each entry in the dataset describes the purchase of a product, by a particular customer and at a given date. In total, approximately  ∼
+The work described in this project is based on a database providing details on purchases made on an E-commerce platform over a period of one year. Each entry in the dataset describes the purchase of a product, by a particular customer and at a given date. In total, approximately 
 4000 clients appear in the database. 
 
