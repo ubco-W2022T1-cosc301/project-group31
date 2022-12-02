@@ -42,6 +42,7 @@ As expected, scatterplot visualizes the set of rules applied to generate RFM seg
 
 ![Distr](./images/DistrOfSegments2.png)
 
+The first part of this study focused on understanding what we should observe in this data by studying customer behavior. We analyzed customer data by splitting them into ten groups, and discovered that hibernation is the largest group. Our conclusion is that this is the result of the products offered in this store. Due to the fact that this store sells gifts for occasions, most clients will have low frequency and recency scores. And we assume that customers from champions and loyal customers are most likely some local shops that resell those special gifts. Therefore, they have pretty high recency, frequency, and monetary scores.
 
 ## Analysis Two
 
@@ -69,4 +70,3 @@ The aim of my research on this dataset was to give the business the insight on w
 The work described in this project is based on a database providing details on purchases made on an E-commerce platform over a period of one year. Each entry in the dataset describes the purchase of a product, by a particular customer and at a given date. In total, approximately  ∼
 4000 clients appear in the database. 
 
-The first part of this study focused on understanding what we should observe in this data by studying customer behavior. We analyzed customer data by splitting them into ten groups, and discovered that hibernation is the largest group. Our conclusion is that this is the result of the products offered in this store. Due to the fact that this store sells gifts for occasions, most clients will have low frequency and recency scores. And we assume that customers from champions and loyal customers are most likely some local shops that resell those special gifts. Therefore, they have pretty high recency, frequency, and monetary scores.
