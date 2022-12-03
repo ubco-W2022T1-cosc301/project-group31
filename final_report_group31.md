@@ -45,6 +45,17 @@ As expected, scatterplot visualizes the set of rules applied to generate RFM seg
 The first part of this study focused on understanding what we should observe in this data by studying customer behavior. We analyzed customer data by splitting them into ten groups, and discovered that hibernation is the largest group. Our conclusion is that this is the result of the products offered in this store. Due to the fact that this store sells gifts for occasions, most clients will have low frequency and recency scores. And we assume that customers from champions and loyal customers are most likely some local shops that resell those special gifts. Therefore, they have pretty high recency, frequency, and monetary scores.
 
 ## Analysis Two
+The goal of my analysis was to investigate customer buying habits across all the orders made in the company, as this will help us identify a plethera of would allow to dissern the patterns followed by the costumers and therefore allow the company to capitalize on them. Furhter more it can shed on the daily habits of the customers who buy the products.
+![Monthly sales](./images/MonthlySales.png)
+As shown by the graph, most of the products sold by the company are sold in November where it would be assumed they are being bought in preparation for christmas as gifts and there is a dip in sales on December. Appart from that the rest of the months are relatively constant.
+
+![Dayly sales](./images/DailySales.png)
+It is first necessary to point out that there are no registered sales on Saturdays which would normally be explained by the shop closing, but in this case specifically would not make sense as the company in question is an online retailer and as such has no need such things.
+
+We can see a consistent increase in sales starting from monday and hitting the apex on thursday then falling again and hitting its lowest on the weekends. This could be caused by multiple reasons but this peak could likely demonstrate that clients buy the product out of a sense of responsibility while going though their daily routine and then stop buying it on the weekends snce they would take this time to relax and forget about responsibilities (which would explain why there are no sales on Saturdays)
+
+![Hourly sales](./images/HourlySales.png)
+From this graph we can clearly see a peak in orders in the afternoon which is often when people take a lunch break in the UK (which is a right enforced by law) and sales die down as you move further away from noon, diying down completely between 20 and 6.
 
 ## Analysis Three
 
